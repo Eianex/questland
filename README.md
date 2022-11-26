@@ -1,5 +1,5 @@
 # Questland
-Tool for finding the best gear configuration in the game.
+Tool dev for finding the best gear configuration in the game.
 
 Current status:
 - Added structure of the project
